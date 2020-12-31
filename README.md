@@ -18,5 +18,5 @@
 >
 >![NoahtheDeveloper github stats](https://github-readme-stats.vercel.app/api?username=NoahtheDeveloper&show_icons=true&hide_border=true)
 >
->
+> <i>Original Founder of <a href="https://discord.gg/infinitenetwork" > Infinite Network | FS & RP 2020 | Over 2.3K Members! |</a></i>
 >
