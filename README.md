@@ -20,3 +20,4 @@
 >
 > <i>Original Founder of <a href="https://discord.gg/infinitenetwork" > Infinite Network | FS & RP 2020 | Over 2.3K Members! |</a></i>
 >
+> <i>Current Freelance developer <a href="" > </a></i>
