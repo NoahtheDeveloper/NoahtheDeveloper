@@ -20,6 +20,10 @@
 > 
 >![NoahtheDeveloper github stats](https://github-readme-stats.vercel.app/api?username=NoahtheDeveloper&show_icons=true&hide_border=true)
 >
+> 
+> ![ALT](https://cdn.discordapp.com/attachments/753987920393797793/809191750869450752/standard_4.gif)
+> 
 > <i>Original Founder of <a href="https://discord.gg/infinitenetwork" > Infinite Network | FS & RP 2020 | Over 2.3K Members! |</a></i>
 >
 > <i>Current Developer at <a href="https://discord.gg/lfs" > Lucaas FS | Youtuber Server | Over 2K Members! |</a></i>
+
