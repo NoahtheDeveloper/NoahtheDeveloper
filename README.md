@@ -23,7 +23,11 @@
 > 
 > ![ALT](https://cdn.discordapp.com/attachments/753987920393797793/809191750869450752/standard_4.gif)
 > 
-> <i>Original Founder of <a href="https://discord.gg/infinitenetwork" > Infinite Network | FS & RP 2020 | Over 2.3K Members! |</a></i>
+> <i>Ex Developer & Network staff at <a href="https://discord.gg/lfs" > sfx Network | Minecraft & FiveM | 6K Mmeber | Management </a></i>
+> 
+> <i>Original Founder/developer of <a href="https://discord.gg/infinitenetwork" > Infinite Network | FS & RP 2020 | Over 2.3K Members! |</a></i>
 >
-> <i>Current Developer at <a href="https://discord.gg/lfs" > Lucaas FS | Youtuber Server | Over 2K Members! |</a></i>
+> <i>Original Founder/developer of <a href="https://discord.gg/infinitenetwork" > Forged Iron | Minecraft Server | </a></i>
+> 
+> <i>Current Developer at <a href="https://discord.gg/lfs" > Lucaas FS | Youtuber Server | Over 3K Members! |</a></i>
 
