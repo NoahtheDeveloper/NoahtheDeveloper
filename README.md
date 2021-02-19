@@ -17,7 +17,7 @@
 >
 > ---
 >
-> ### ⚙️ My Resources & Tools:
+> 
 > 
 > 
 >![NoahtheDeveloper github stats](https://github-readme-stats.vercel.app/api?username=NoahtheDeveloper&show_icons=true&hide_border=true)
@@ -28,7 +28,7 @@
 > 
 > ---
 >
-> ### ⚙️ My Resources & Tools:
+> 
 > <i>Ex Developer & Network staff at <a href="https://discord.gg/lfs" > sfx Network | Minecraft & FiveM | 6K Memebers | Management </a></i>
 > 
 > <i>Original Founder/developer of <a href="https://discord.gg/infinitenetwork" > Infinite Network | FS & RP 2020 | Over 2.3K Members! |</a></i>
