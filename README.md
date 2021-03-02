@@ -22,7 +22,7 @@
 > 
 > 
 > 
->![NoahtheDeveloper github stats](https://github-readme-stats.vercel.app/api?username=NoahtheDeveloper&show_icons=true&hide_border=true)
+>![NoahtheDeveloper github stats](https://github-readme-stats-eight-theta.vercel.app/apiusername=NoahtheDeveloper&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 >
 > 
 > ![ALT](https://cdn.discordapp.com/attachments/753987920393797793/809191750869450752/standard_4.gif)
