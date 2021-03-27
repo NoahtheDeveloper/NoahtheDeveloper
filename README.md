@@ -40,4 +40,5 @@
 > <i>Ex Developer & Manager at <a href="https://discord.gg/lfs" > Lucaas FS | Youtuber Server | Over 3K Members! |</a></i>
 > 
 > <i>Current Developer & Managment at <a href="https://discord.gg/ICRP" > ICRP | FiveM Roleplay server | Over 600 Members! |</a></i>
-
+> 
+> ---
